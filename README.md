@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Schrodingdong
 - 👀 I’m interested in Coding and guitar !
-- 🌱 I’m currently learning Full stack Devloppement
 - 📫 How to reach me : hamzaalamiibnjamaa123456789@gmail.com
 
 <!---
